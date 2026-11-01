@@ -1,0 +1,8 @@
+vscode-colab
+requests
+
+# HTTP client for communicating with Ollama
+requests>=2.32.0
+
+# Load environment variables from .env
+python-dotenv>=1.0.1
